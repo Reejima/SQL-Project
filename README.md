@@ -1,4 +1,6 @@
-# SQL_For_Data_Science
+# SQL Projects
+
+## SQL For Data Science
 
 In this course, I learn how to use SQL in order analyze a dataset from Yelp.
 
@@ -6,7 +8,7 @@ This is a 2-part assignment. In the first part, you are asked a series of questi
 
 In the second part of the assignment, you are asked to come up with your own inferences and analysis of the data for a particular research question you want to answer. You will be required to prepare the dataset for the analysis you choose to do. As with the first part, you will be graded, in part, on how easy your code is to read, so use proper formatting and comments to illustrate and communicate your intent as required.
 
-# Data Wrangling, Analysis and AB Testing with SQL
+## Data Wrangling, Analysis and AB Testing with SQL
 
 Write a query and table creation statement to make final_assignments_qa look like the final_assignments table. If you discovered something missing in part 1, you may fill in the value with a place holder of the appropriate data type.
 
@@ -18,7 +20,7 @@ Use the https://thumbtack.github.io/abba/demo/abba.html to compute the lifts in 
 
 Use Mode’s Report builder feature to write up the test. Your write-up should include a title, a graph for each of the two binary metrics you’ve calculated. The lift and p-value (from the AB test calculator) for each of the two metrics, and a complete sentence to interpret the significance of each of the results.
  
- ## A/B Testing Results
+ ### A/B Testing Results
       View Binary 
       We can say with 95% confidence that the lift value is 2% and the p_value is 0.2. 
     There is not a significant difference in the number of views within 30days of the assigned treatment date between the two treatments.
