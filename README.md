@@ -18,7 +18,7 @@ Use the https://thumbtack.github.io/abba/demo/abba.html to compute the lifts in 
 
 Use Mode’s Report builder feature to write up the test. Your write-up should include a title, a graph for each of the two binary metrics you’ve calculated. The lift and p-value (from the AB test calculator) for each of the two metrics, and a complete sentence to interpret the significance of each of the results.
  
- ## Metrics Found From Analysis
+ ## A/B Testing Results
       View Binary 
       We can say with 95% confidence that the lift value is 2% and the p_value is 0.2. 
     There is not a significant difference in the number of views within 30days of the assigned treatment date between the two treatments.
